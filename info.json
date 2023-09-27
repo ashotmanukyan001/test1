@@ -1,114 +1,75 @@
 [
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
 	{
-		"image": ["","",""],
+		"image": "["","",""]",
 		"model_name": "",
 		"desc": "",
 		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
+		"sale_status": "[10,15,20,25]",
+		"rating_status": "[]"
 	},
-	{
-		"image": ["","",""],
-		"model_name": "",
-		"desc": "",
-		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
-	},
-	{
-		"image": ["","",""],
-		"model_name": "",
-		"desc": "",
-		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
-	},
-	{
-		"image": ["","",""],
-		"model_name": "",
-		"desc": "",
-		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
-	},
-	{
-		"image": ["","",""],
-		"model_name": "",
-		"desc": "",
-		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
-	},
-	{
-		"image": ["","",""],
-		"model_name": "",
-		"desc": "",
-		"price": 2500,
-		"sale_status": [10,15,20,25],
-		"rating_status": []
-	},
+	
 ]
